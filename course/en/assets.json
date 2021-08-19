@@ -1,0 +1,77 @@
+{
+  "772be23c47071704668a4bf8912b17b141a16867.svg": {
+    "title": "lifecycle_fix.svg",
+    "description": "analytical lifecycle",
+    "tags": [
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "3f230f0d6adca9369af167d3bfed8928d3696afd.png": {
+    "title": "AF_brain.png",
+    "description": "analysis function professions",
+    "tags": []
+  },
+  "90152f1fc037b5f0df3d5eb4e53349868878603d.png": {
+    "title": "retail_sales_graph",
+    "description": "retail sales line graph",
+    "tags": []
+  },
+  "d6d9799ce235a85dc9fa8c656bc1b02a54e8ded0.png": {
+    "title": "mis_bar_graph.png",
+    "description": "misleading bar graph",
+    "tags": []
+  },
+  "9fe38c25f273a346aba3ba202a266d9f1dc9e68e.png": {
+    "title": "bar_graph.png",
+    "description": "correct bar graph",
+    "tags": []
+  },
+  "20968f47e9a4b90b08a68687209d93511f657837.png": {
+    "title": "mis_pie_chart.png",
+    "description": "misleading pie chart",
+    "tags": []
+  },
+  "0b36929c656aa300dd1014160ad13d04cd660a42.png": {
+    "title": "pie_chart.png",
+    "description": "pie chart",
+    "tags": []
+  },
+  "f575f850a3875b3d66d96de283bfcbf098bcb955.svg": {
+    "title": "regression.svg",
+    "description": "labelled regression plot",
+    "tags": []
+  },
+  "804aa35b12ed676a82c8de64153362939dc66c10.png": {
+    "title": "cherry_picked.png",
+    "description": "selected data points",
+    "tags": []
+  },
+  "c5226aaa353a8a8a82964d793d62a4080fc9041c.png": {
+    "title": "non_cherry_picked.png",
+    "description": "full data points",
+    "tags": []
+  },
+  "c33fb2a09ddde87b3886dade305112a55e1bcedf.svg": {
+    "title": "Logo blue.svg",
+    "description": "twitter_logo",
+    "tags": [
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "f44e0e0df60400857e84bd1a5f9a02303fa21ca2.png": {
+    "title": "AF logo_3_16ths.png",
+    "description": "3 16ths size analysis function logo",
+    "tags": [
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  }
+}
