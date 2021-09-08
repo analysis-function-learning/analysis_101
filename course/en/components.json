@@ -21,6 +21,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -44,6 +48,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -69,6 +77,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -92,6 +104,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -117,6 +133,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -140,6 +160,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -171,6 +195,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -194,6 +222,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -219,6 +251,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -243,6 +279,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -266,6 +306,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_setCompletionOn": "allItems",
@@ -325,6 +369,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_setCompletionOn": "allItems",
     "_items": [
@@ -383,6 +431,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -406,6 +458,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -431,6 +487,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -454,6 +514,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -479,6 +543,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -502,6 +570,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -527,6 +599,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -550,6 +626,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -581,6 +661,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -597,20 +681,24 @@
     "displayTitle": "",
     "body": "",
     "_id": "610944444e98473e7dc5a31e",
-    "_parentId": "610944384e98473e7dc5a31d",
+    "_parentId": "610945b94e98473e7dc5a322",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select all the correct statements below",
     "_items": [
       {
         "text": "Retail sales were lowest in April 2020",
         "_shouldBeSelected": true,
-        "feedback": ""
+        "feedback": "<p>Correct!</p>"
       },
       {
         "text": "Retail sales have consistently decreased since July 2020",
@@ -620,12 +708,12 @@
       {
         "text": "Before February 2020, retail sales volumes were relatively stationary",
         "_shouldBeSelected": true,
-        "feedback": ""
+        "feedback": "<p>Correct!</p>"
       },
       {
         "text": "Retail Sales were highest in October 2020",
         "_shouldBeSelected": false,
-        "feedback": "<p>Retail sales were highest in April 2020.&nbsp;</p>"
+        "feedback": "<p>Retail sales were highest in April 2021.&nbsp;</p>"
       }
     ],
     "_attempts": 1,
@@ -638,14 +726,14 @@
     "_questionWeight": 1,
     "_selectable": 4,
     "_feedback": {
-      "title": "",
-      "correct": "",
+      "title": "Feedback",
+      "correct": "<p>Retail sales reached their lowest point in April 2020, just after lockdown began.</p><p>Before February 2020, sales were relatively stable (although they were on a slight upward trend).&nbsp;</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p>Since July 2020, retail sales have both grown and fallen, they have not been consistently decreasing.&nbsp;</p><p>Retail sales were actually highest in April 2021, exactly a year after they were at their lowest.&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
-        "final": "",
+        "final": "<p>Some of your answers were correct.&nbsp;</p>",
         "notFinal": ""
       }
     },
@@ -675,36 +763,6 @@
     }
   },
   {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Reading Graphs",
-    "displayTitle": "Reading Graphs",
-    "body": "<p>Have a go at identifying some insights and trends from the graph below:&nbsp;</p>",
-    "_id": "610946474e98473e7dc5a323",
-    "_parentId": "610945b94e98473e7dc5a322",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/90152f1fc037b5f0df3d5eb4e53349868878603d.png",
-      "small": "course/en/assets/90152f1fc037b5f0df3d5eb4e53349868878603d.png",
-      "attribution": ""
-    }
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -716,7 +774,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p>Data visualisations should make data more digestible, and easier to understand. It can either be used for exploratory (understanding a dataset or variable) or explanatory (communicating insight) purposes. Data visualisations can be used to show:&nbsp;</p><ul><li>Comparison - between data points</li><li>Composition or proportion</li><li>Distribution - both comparison and composition</li><li>Relationships and correlation - between variables</li></ul><p>Producers of data visualisations will make decisions about the best ways to display various types of data and communicate insights. They&nbsp;should follow GSS (Government Statistical Service) best practice guidelines. Well-made graphs are clear, uncluttered and easy to understand. However, users of graphics should be able to pick out misleading visualisations.&nbsp;</p><p>&nbsp;</p>",
+    "body": "<p>Data visualisations are either used for exploratory (gaining familiarity and understanding the dataset, variable or relationship) or explanatory purposes (communicating a particular message). Ultimately, creating data visualisations should make the data more digestible and easier to understand than picking out the same message from a block of text.&nbsp;</p><p>They can be used to show:</p><ul><li>Comparison - between data points</li><li>Composition or proportion</li><li>Distribution - both comparison and composition</li><li>Relationships and correlation - between variables</li></ul><p>Producers of data visualisations will make decisions about the best ways to display various types of data and communicate insights. They&nbsp;should follow GSS (Government Statistical Service) best practice guidelines. Well-made graphs are clear, uncluttered and easy to understand. However, all users of graphics should be able to pick out misleading visualisations as well as pick out key messages.&nbsp;</p><p>&nbsp;</p>",
     "_id": "6109474c4e98473e7dc5a327",
     "_parentId": "6109473a4e98473e7dc5a326",
     "_type": "component",
@@ -725,6 +783,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -750,6 +812,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -774,11 +840,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "Drag the slider to compare graphs",
     "_beforeafter": {
-      "before": "course/en/assets/d6d9799ce235a85dc9fa8c656bc1b02a54e8ded0.png",
+      "before": "course/en/assets/35484b718209822b01664991031cba11ca811ff1.png",
       "altbefore": "Misleading Graph",
-      "after": "course/en/assets/9fe38c25f273a346aba3ba202a266d9f1dc9e68e.png",
+      "after": "course/en/assets/9621c16213b4aed03130079b7c3ac74ba6bca5ee.png",
       "alt": "",
       "attribution": "Fictitious data used"
     },
@@ -806,15 +876,19 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "Drag the slider to compare the pie charts.",
     "_beforeafter": {
-      "before": "course/en/assets/20968f47e9a4b90b08a68687209d93511f657837.png",
+      "before": "course/en/assets/5f7f44aadca3fdf4a0b183b0ec53f9c9979980e7.png",
       "altbefore": "misleading pie chart",
-      "after": "course/en/assets/0b36929c656aa300dd1014160ad13d04cd660a42.png",
+      "after": "course/en/assets/719faea5834ed1cb04b993aed9bc57d3aa2e02bf.png",
       "alt": "pie chart",
       "attribution": "Fictitious data used "
     },
-    "bottomText": "<p>The 3D nature of the first chart distorts the proportions of colours. In the first chart, it appears as though blue is more popular than red. However, looking at the 2D chart, with data labels, you can see that red was actually marginally more popular than blue, although the difference was small.</p>"
+    "bottomText": "<p>The 3D nature of the first chart distorts the proportions of colours. In the first chart, it appears as though blue is more popular than red. However, looking at the 2D chart, with data labels, you can see that red was actually marginally more popular than blue, although the difference was small.</p><p>3D graphs leading to misleading interpretations also applies to 3D bar charts.&nbsp;</p>"
   },
   {
     "_component": "graphic",
@@ -837,6 +911,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Figure 1",
     "_graphic": {
@@ -867,6 +945,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_setCompletionOn": "allItems",
@@ -906,7 +988,7 @@
     "_disableAccessibilityState": false,
     "title": "Cherry-Picking",
     "displayTitle": "Cherry-Picking",
-    "body": "<p>Cherry-Picking is where creators choose to only include data that portrays the message they want to perpetuate and omit part of the data that disagrees.&nbsp;</p><p>&nbsp;</p><p>To illustrate an example, this practice is common in politics or political debate. For example, the opposition may highlight and draw attention to particular months of low unemployment to critique the government's economic or welfare policy, while the governing party may choose to focus on prosperous months. Although they may draw data from the same source, it can tell a different story.</p><p>&nbsp;</p><p>Rather than fabricating any data, people may only select evidence that confirms their own biases or messages they want to tell, intentionally but also unintentionally.&nbsp;</p>",
+    "body": "<p>Cherry-Picking is where creators choose to only include data that portrays the message they want to perpetuate and omit part of the data that disagrees.&nbsp;</p><p>&nbsp;</p><p>To illustrate an example, this practice is common in politics or political debate. For example, the opposition may highlight and draw attention to particular months of low unemployment to critique the government's economic or welfare policy, while the governing party may choose to focus on prosperous months. Although they may draw data from the same source, it can tell a different story.</p><p>&nbsp;</p><p>Rather than fabricating any data, people may only select evidence that confirms their own biases or messages they want to tell.&nbsp;</p>",
     "_id": "611297e04e98473e7dc5a491",
     "_parentId": "611297dd4e98473e7dc5a490",
     "_type": "component",
@@ -916,15 +998,19 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "Drag the slider to compare graphs",
     "_beforeafter": {
-      "before": "course/en/assets/804aa35b12ed676a82c8de64153362939dc66c10.png",
+      "before": "course/en/assets/e8bcc9861ef50e20e61776c5761b19e3ed24afe5.png",
       "altbefore": "",
-      "after": "course/en/assets/c5226aaa353a8a8a82964d793d62a4080fc9041c.png",
+      "after": "course/en/assets/ad36a765ea5ff0b9d705493ee1a671c0987bd492.png",
       "alt": "",
       "attribution": ""
     },
-    "bottomText": "<p>In this example, alternate months have been omitted from the first line graph. This gives the impression that the data is relatively stable over time. In addition, some of the lowest months have not been included which makes the measure appear better performing and more stable over time.&nbsp;</p><p>&nbsp;</p><p>Cherry-picking is much harder to spot than some of the other types of misleading visualisations we have covered as it impossible to know just by looking at a graph whether data has been excluded. Instead, we can ensure data sources are of high quality, from reliable sources and consider multiple sources of evidence to draw a conclusion.</p>"
+    "bottomText": "<p>In this example, alternate months have been omitted from the first line graph. This gives the impression that the data is relatively stable over time. In addition, some of the lowest months have not been included which makes the measure appear better performing and more stable over time.&nbsp;</p><p>&nbsp;</p><p>Cherry-picking is much harder to spot than some of the other types of misleading visualisations we have covered as it impossible to know just by looking at a graph whether data has been excluded. Instead, we can ensure data sources are of high quality, from reliable sources and consider multiple sources of evidence to draw a final conclusion.</p>"
   },
   {
     "_component": "text",
@@ -947,6 +1033,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -972,6 +1062,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -995,6 +1089,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -1020,6 +1118,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -1043,6 +1145,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -1073,6 +1179,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_loopStyle": "none",
@@ -1142,7 +1252,7 @@
         "_customRouteId": ""
       },
       "_sibling": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1155,7 +1265,7 @@
         "_customRouteId": ""
       },
       "_close": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1190,6 +1300,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_loopStyle": "none",
     "_buttons": {
@@ -1258,7 +1372,7 @@
         "_customRouteId": ""
       },
       "_sibling": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1271,7 +1385,7 @@
         "_customRouteId": ""
       },
       "_close": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1306,6 +1420,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_loopStyle": "none",
     "_buttons": {
@@ -1374,7 +1492,7 @@
         "_customRouteId": ""
       },
       "_sibling": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "nav-col",
@@ -1387,7 +1505,7 @@
         "_customRouteId": ""
       },
       "_close": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1422,6 +1540,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_loopStyle": "none",
     "_buttons": {
@@ -1477,7 +1599,7 @@
         "_customRouteId": ""
       },
       "_next": {
-        "_isEnabled": false,
+        "_isEnabled": true,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1485,12 +1607,12 @@
         "_alignIconRight": true,
         "text": "Next",
         "ariaLabel": "Next Page",
-        "_showTooltip": false,
+        "_showTooltip": true,
         "tooltip": "{{displayTitle}}",
         "_customRouteId": ""
       },
       "_sibling": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1503,7 +1625,7 @@
         "_customRouteId": ""
       },
       "_close": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1538,6 +1660,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -1561,6 +1687,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_loopStyle": "none",
@@ -1617,7 +1747,7 @@
         "_customRouteId": ""
       },
       "_next": {
-        "_isEnabled": false,
+        "_isEnabled": true,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1625,12 +1755,12 @@
         "_alignIconRight": true,
         "text": "Next",
         "ariaLabel": "Next Page",
-        "_showTooltip": false,
+        "_showTooltip": true,
         "tooltip": "{{displayTitle}}",
         "_customRouteId": ""
       },
       "_sibling": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1643,7 +1773,7 @@
         "_customRouteId": ""
       },
       "_close": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1678,6 +1808,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_loopStyle": "none",
     "_buttons": {
@@ -1733,7 +1867,7 @@
         "_customRouteId": ""
       },
       "_next": {
-        "_isEnabled": false,
+        "_isEnabled": true,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1741,25 +1875,25 @@
         "_alignIconRight": true,
         "text": "Next",
         "ariaLabel": "Next Page",
-        "_showTooltip": false,
+        "_showTooltip": true,
         "tooltip": "{{displayTitle}}",
         "_customRouteId": ""
       },
       "_sibling": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
         "_iconClass": "",
         "_alignIconRight": false,
-        "text": "{{inc index}}",
+        "text": "{{displayTitle}}",
         "ariaLabel": "Page {{inc index}}",
         "_showTooltip": true,
         "tooltip": "{{displayTitle}}",
         "_customRouteId": ""
       },
       "_close": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
@@ -1770,6 +1904,69 @@
         "_showTooltip": true,
         "tooltip": "Close window"
       }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>Thank you for taking this course.&nbsp;</p><p>You should now have a better understanding of how to request, interpret and utilize analytical outputs.&nbsp;</p><p>In this course we have covered:&nbsp;</p><ul><li>What is the Analysis Function</li><li>How analytical projects are designed</li><li>An overview of some key methodological topics or methods</li><li>Quality of statistics and data</li><li>What are Reproducible Analytical Pipelines</li><li>Recognising misleading visualisations</li></ul><p>If you are interested in further developing your analytical knowledge, take a look at the <a href=\"https://www.gov.uk/guidance/af-learning-curriculum-technical\">Analysis Function Learning Curriculum</a>.</p>",
+    "_id": "6131d17c4e98473e7dc5a82f",
+    "_parentId": "6131d14b4e98473e7dc5a82e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphicwithlink",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "61386b144e98473e7dc5a83b",
+    "_parentId": "610945b94e98473e7dc5a322",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Click to open enlarged image in a new tab",
+      "large": "course/en/assets/90152f1fc037b5f0df3d5eb4e53349868878603d.png",
+      "small": "course/en/assets/90152f1fc037b5f0df3d5eb4e53349868878603d.png",
+      "attribution": "",
+      "url": "https://analysis-function-learning.github.io/analysis_101/course/en/assets/90152f1fc037b5f0df3d5eb4e53349868878603d.png"
     }
   }
 ]
